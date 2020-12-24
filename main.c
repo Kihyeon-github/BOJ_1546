@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 void sort(double score[], int N){
   int temp=0;
   for(int i=0 ; i<N; i++){
